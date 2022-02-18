@@ -1,0 +1,7 @@
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif;
+Array.from(document.getElementsByClassName('songItemPlay')).forEach(() => {
+    element, addEventListener('click' (e))=>{
+        console.log
+    }
+})
